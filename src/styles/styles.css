@@ -1,0 +1,72 @@
+/* General Body Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Container Padding */
+  .container {
+    padding: 20px;
+  }
+  
+  /* Header Styles */
+  h1 {
+    font-size: 2rem;
+    color: #343a40; /* Darker text color */
+    margin-bottom: 20px;
+  }
+  
+  /* Form Styles */
+  form {
+    margin-top: 20px;
+  }
+  
+  /* Form Group Styles */
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  /* Form Label Styles */
+  .form-label {
+    font-weight: bold;
+  }
+  
+  /* Button Styles */
+  button {
+    margin-top: 10px;
+  }
+  
+  /* Blog Post Card Styles */
+  .card {
+    margin-bottom: 10px;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    text-align: center;
+    color: #007bff; /* Bootstrap primary color */
+  }
+  
+  .card-body {
+    padding: 15px;
+    background-color: #ffffff; /* White background for card */
+  }
+  
+  .card-img-top {
+    height: auto;
+    max-width: 100%;
+  }
+  
+  /* Alert Styles */
+  .alert {
+    margin-top: 20px;
+  }
+  
+  /* Spinner Styles */
+  .spinner-border {
+    display: block;
+    margin: 0 auto; /* Center spinner */
+  }
+  
